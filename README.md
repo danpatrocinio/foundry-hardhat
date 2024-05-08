@@ -1,12 +1,10 @@
 # Integração das ferramentas:
 ### Foundry e Hardhat para desenvolvimento de Smart Contracts em Solidity
 
-* Usando @api3 => [https://dapi-docs.api3.org/]
-
 ## Hardhat
 **Flexible. Extensible. Fast. Ethereum development environment for professionals**
 
-Hardhat usage:
+## Hardhat usage
 
 ### Compile
 ```shell
@@ -89,3 +87,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+---
+
+### Libs em uso: 
+* @api3/contracts           - https://dapi-docs.api3.org/
+* @openzeppelin/contracts   - https://docs.openzeppelin.com/
