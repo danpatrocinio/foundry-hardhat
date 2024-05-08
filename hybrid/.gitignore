@@ -1,5 +1,6 @@
 # Compiler files
 cache/
+cache_forge/
 out/
 
 # Ignores development broadcast logs
@@ -14,7 +15,6 @@ docs/
 .env
 
 # Node
-node_modules
 node_modules
 .env
 
