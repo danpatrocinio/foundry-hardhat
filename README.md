@@ -1,6 +1,12 @@
 # Integração das ferramentas:
 ### Foundry e Hardhat para desenvolvimento de Smart Contracts em Solidity
 
+## Hardhat e Foundry
+### Executar todos os testes do Hardhat e Foundry
+```shell
+$ npm test
+```
+
 ## Hardhat
 **Flexible. Extensible. Fast. Ethereum development environment for professionals**
 

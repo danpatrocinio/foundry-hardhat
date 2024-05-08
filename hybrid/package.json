@@ -30,5 +30,8 @@
   "dependencies": {
     "@api3/contracts": "^3.5.0",
     "@openzeppelin/contracts": "^4.9.5"
+  },
+  "scripts": {
+    "test": "echo \"***-------*** Executing Hardhat tests ***-------***\" && npx hardhat test && echo \"***-------*** Executing forge tests ***-------***\" && forge test -vvv"
   }
 }
