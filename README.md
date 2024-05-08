@@ -14,8 +14,11 @@ $ npx hardhat compile
 ```shell
 $ npx hardhat test
 ```
+### Test Coverage
+```shell
+$ npx hardhat coverage
+```
 ### Deploy
-
 ```shell
 $ npx hardhat ignition deploy ./ignition/modules/DeployPriceFeed.ts --network localhost
 ```
